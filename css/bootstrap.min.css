@@ -11,3 +11,21 @@
   display: flex;
   align-items: center;
 }
+
+.marge {
+    color:#A9A9A9
+;
+    margin-right: 10px;
+}
+.list-unstyled li a{
+    color:#A9A9A9
+;
+}
+.dropdown-menu{
+    color:#A9A9A9
+;
+}
+.gris{
+    color:#A9A9A9
+;
+}
